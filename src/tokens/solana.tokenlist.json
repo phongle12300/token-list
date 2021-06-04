@@ -8027,6 +8027,19 @@
     },
     {
       "chainId": 101,
+      "address": "HzuRMDdCVZKgkECqEUA5arsDGctaE8wKXVoGBfaTUZZt",
+      "symbol": "SFPD",
+      "name": "SOLFARMPAD",
+      "decimals": 6,
+      "logoURI": "https://img1.wsimg.com/isteam/ip/0806e069-1a1b-438a-aa86-7765c335fac8/penguin%20logo%2011.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://Solfarmerpad.io/",
+        "twitter": "https://twitter.com/Solfarmerpad"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "4NPzwMK2gfgQ6rTv8x4EE1ZvKW6MYyYTSrAZCx7zxyaX",
       "symbol": "KLB",
       "name": "Black Label",
